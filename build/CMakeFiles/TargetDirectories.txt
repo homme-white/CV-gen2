@@ -1,0 +1,3 @@
+/home/homie/桌面/aa/build/CMakeFiles/CampusGame_demo.dir
+/home/homie/桌面/aa/build/CMakeFiles/edit_cache.dir
+/home/homie/桌面/aa/build/CMakeFiles/rebuild_cache.dir
